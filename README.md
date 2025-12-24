@@ -1,1 +1,1 @@
-I am a final-year PhD student at the University of Exeter undertaking research in the fields of open quantum systems and quantum thermodynamics. I am particularly interested in applying my skills to solve real-world problems.
+I am a Postdoctoral Research Fellow at the University of Exeter. I have a background in open quantum systems and quantum thermodynamics, and I am particularly interested in applying my knowledge to help develop quantum technologies.
